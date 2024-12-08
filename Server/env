@@ -1,0 +1,4 @@
+MONGO_URL="mongodb+srv://jainikraval51:SYJQjzdhbPctFzSO@cluster0.myplt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+CLOUDINARY_CLOUD_NAME="dbgxzgqrz"
+CLOUDINARY_API_KEY="833872134861899"
+CLOUDINARY_API_SECRET="VYz6IArG3e1Jq2JtCQXWUciD6Ek"
