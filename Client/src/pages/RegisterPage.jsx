@@ -35,7 +35,7 @@ export default function RegisterPage() {
           />
           <input
             type="email"
-            placeholder="User@gmail.com"
+            placeholder="User@email.com"
             value={email}
             onChange={(ev) => setEmail(ev.target.value)}
             className="w-full border rounded-xl p-2 mb-4"
