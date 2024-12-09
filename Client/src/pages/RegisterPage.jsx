@@ -28,14 +28,14 @@ export default function RegisterPage() {
         <form className="max-w-md mx-auto" onSubmit={registerUser}>
           <input
             type="text"
-            placeholder="Vivek Panchal"
+            placeholder="User"
             value={name}
             onChange={(ev) => setName(ev.target.value)}
             className="w-full border rounded-xl p-2 mb-4"
           />
           <input
             type="email"
-            placeholder="your@email.com"
+            placeholder="User@gmail.com"
             value={email}
             onChange={(ev) => setEmail(ev.target.value)}
             className="w-full border rounded-xl p-2 mb-4"
